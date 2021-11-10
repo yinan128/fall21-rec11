@@ -90,6 +90,8 @@ public class RpsPlugin implements GamePlugin<String> {
 
     @Override
     public String currentPlayer() {
-        return "Human";
+        return "COMPUTER";
     }
+
+    //some comments.
 }
